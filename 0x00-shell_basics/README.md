@@ -10,3 +10,4 @@ Delete the file
 Delete the directory
 a script that changes the working directory
 a script that lists all files
+a script that prints the type of the file
