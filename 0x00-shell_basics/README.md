@@ -8,3 +8,4 @@ a script that creates a directory
 Move the file 
 Delete the file
 Delete the directory
+a script that changes the working directory
