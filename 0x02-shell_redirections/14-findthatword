@@ -1,2 +1,2 @@
 #!/bin/bash
-greb-i root /etc/passwd
+greb -i “root” /etc/passwd
