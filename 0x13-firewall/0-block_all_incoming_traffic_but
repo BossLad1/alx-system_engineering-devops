@@ -2,8 +2,8 @@
 # configure ufw - blocks all ingress, except these TCP ports:
 #	22 (SSH), 443 (HTTPS SSL), 80 (HTTP)
 
-sudo apt-get update -y
-sudo apt-get install -y ufw
+sudo apt-get -y update
+sudo apt-get -y install ufw
 sudo ufw disable
 sudo ufw default deny incoming
 sudo ufw default allow outgoing
